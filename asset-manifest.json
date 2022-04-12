@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/atv_travis_ci/static/css/main.073c9b0a.css",
+    "main.js": "/atv_travis_ci/static/js/main.c1f80f10.js",
+    "static/js/787.28cb0dcd.chunk.js": "/atv_travis_ci/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/atv_travis_ci/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/atv_travis_ci/index.html",
+    "main.073c9b0a.css.map": "/atv_travis_ci/static/css/main.073c9b0a.css.map",
+    "main.c1f80f10.js.map": "/atv_travis_ci/static/js/main.c1f80f10.js.map",
+    "787.28cb0dcd.chunk.js.map": "/atv_travis_ci/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c1f80f10.js"
+  ]
+}
